@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Coxs bazar",
+        "img": "https://www.laurewanders.com/wp-content/uploads/2023/02/Backpacking-in-Bangladesh-00009.jpg",
+        "description": "Cox's Bazar is a picturesque coastal town in Bangladesh, renowned for its stunning sandy beaches and captivating natural beauty."
+    },
+    {
+        "id": 2,
+        "name": "Srimongol",
+        "img": "https://cdn.pixabay.com/photo/2018/07/13/06/06/bangladesh-3535023_1280.jpg",
+        "description": "Srimangal is a serene town in Bangladesh, known as the Tea Capital for its lush tea gardens and tranquil ambiance."
+    },
+    {
+        "id": 3,
+        "name": "Sajek",
+        "img": "https://cdn.pixabay.com/photo/2019/12/12/15/14/bangladesh-4690975_1280.jpg",
+        "description": "Sajek Valley is a picturesque hill station in Bangladesh, offering stunning landscapes, rolling hills, and a peaceful retreat amidst nature's splendor."
+    },
+    {
+        "id": 4,
+        "name": "Sundarban",
+        "img": "https://cdn.pixabay.com/photo/2018/09/12/19/21/deer-3673017_1280.jpg",
+        "description": "Sundarbans, a UNESCO World Heritage site in Bangladesh, is a vast mangrove forest known for its rich biodiversity, Royal Bengal tigers, and unique ecological significance."
+    }
+]
